@@ -1,8 +1,8 @@
 # Hi there 👋 I am Mishqat Abid
-
-•  📘 Studying Cybersecurity
-•  🔍 Exploring Ethical Hacking and Penetration Testing
-•  🚩 Participating in CTF challenges 
+Welcome to my GitHub Profile <br><br>
+•  📘 Studying Cybersecurity<br>
+•  🔍 Exploring Ethical Hacking and Penetration Testing<br>
+•  🚩 Participating in CTF challenges <br>
 
 ## 🌐 Connect with me
 •  Reach me via [Email](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox)<br>
