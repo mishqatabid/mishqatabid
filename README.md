@@ -35,7 +35,6 @@
 <a href="https://www.wireshark.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/wireshark/wireshark-icon.svg" alt="wireshark" width="40" height="40"/> </a> 
 <a href="https://nmap.org/" target="_blank" rel="noreferrer"> <img src="https://nmap.org/images/nmap-logo-256x256.png" alt="nmap" width="40" height="40"/> </a> 
 <a href="https://www.netacad.com/courses/packet-tracer" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/cisco/cisco-icon.svg" alt="cisco packettracer" width="40" height="40"/> 
-<a href="https://en.wikipedia.org/wiki/Assembly_language" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Assembly_language_logo.png" alt="assembly" width="40" height="40"/></a>
 <a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/></a>
 </p>
 
